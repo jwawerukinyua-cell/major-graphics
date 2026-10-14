@@ -1,0 +1,6 @@
+{
+  "name": "Major Graphics Studio",
+  "description": "High-impact graphic design, visual identity, logos, packaging, and commercial branding designed to captivate audiences and convert customers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
